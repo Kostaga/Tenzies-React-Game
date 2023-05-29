@@ -12,3 +12,5 @@ Install dependencies: Navigate to the project's directory and run the following 
 Run the application: After the installation is complete, start the application using the following command:
 
 npm start
+
+Here is the netlify link to test it : https://beamish-shortbread-facec2.netlify.app
