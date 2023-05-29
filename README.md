@@ -17,5 +17,4 @@ Here is the netlify link to test it : https://beamish-shortbread-facec2.netlify.
 ![image](https://github.com/Kostaga/Tenzies-React-Game/assets/59094550/510e3940-cbdc-4cd4-afb7-598d63853ef6)
 
 
-https://github.com/Kostaga/Tenzies-React-Game/assets/59094550/3f0d10b4-0411-4168-b56f-2a51c275c8cc
 
